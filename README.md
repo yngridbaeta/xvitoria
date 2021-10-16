@@ -4,7 +4,7 @@
   - ⭐ Conheci os diferentes tipos de linguagem em 2021.
   - 🔭 Atualmente estudo várias linguagens.
   - 💻 JavaScript perfeita ||ヽ(*￣▽￣*)ノミ|Ю.
-  - 💬 É sobre programar.
+  - 💬 É sobre programar ＜（＾－＾）＞.
   - 🏚 Cotuca
 
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="MemojiXvitoria.png">
