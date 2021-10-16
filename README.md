@@ -6,7 +6,8 @@
   - 💻 JavaScript perfeita ╰(*°▽°*)╯.
   - 💬 É sobre programar.
 
-  
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="MemojiXvitoria.png">
+    
   [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yngridbaeta/)
   [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yngridbaeta)
   <a href = "mailto:baetayngrid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,6 +23,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
   
   
