@@ -20,7 +20,7 @@
 </div>
 
   <div style="display: inline_block">
-  <h3 style="color:red;">Habilidades 🚀</h3>
+  <h3 style="color:red;">Linguagens 🚀</h3>
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,12 +32,4 @@
   
    ![Snake animation](https://github.com/xvitoria/xvitoria/blob/output/github-contribution-grid-snake.svg)
  
-  
-  
 </div>
-<br>
-
-
-
-
-
