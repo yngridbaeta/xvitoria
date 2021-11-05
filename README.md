@@ -1,4 +1,4 @@
-### Oiiie! Eu sou a Yngrid 👋
+### Oiiiie! Eu sou a Yngrid 👋
 
 
   - ⭐ Conheci os diferentes tipos de linguagem em 2021.
