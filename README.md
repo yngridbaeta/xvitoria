@@ -5,7 +5,6 @@
   - 🔭 Atualmente estudo várias linguagens.
   - 💬 É sobre programar.... ＜（＾－＾）＞.
   - 🖤 Viciei no Github, é sobre isso! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧.
-  - 🏚 Cotuca.
 
     <img align="right" alt="vivi-pic" height="150" style="border-radius:50px;" src="MemojiXvitoria.png">
     
