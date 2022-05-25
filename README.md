@@ -1,5 +1,4 @@
 ### Oiiiie! Eu sou a Yngrid 👋
-<p> Vivendo e aprendendo.</p>
 
 <img align="right" alt="vivi-pic" height="150" style="border-radius:50px;" src="MemojiXvitoria.png">
     
