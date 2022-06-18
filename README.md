@@ -1,4 +1,4 @@
-### Hello! My name is Yngrid. 👋  
+### Hello! My name is Yngrid. 👋
 
 <img align="right" alt="vivi-pic" height="150" style="border-radius:50px;" src="MemojiXvitoria.png">
     
