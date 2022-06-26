@@ -1,6 +1,6 @@
 ### Hello! My name is Yngrid. 👋
 
-<img align="right" alt="vivi-pic" height="150" style="border-radius:50px;" src="MemojiXvitoria.png">
+<img align="right" alt="vivi-pic" height="150" style="border-radius:50px;" src="MemojiXvitoria.png"> 
     
     
   [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yngridbaeta/)
